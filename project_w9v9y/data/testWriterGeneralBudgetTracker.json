@@ -1,0 +1,15 @@
+{
+    "items": [
+        {
+            "quantity": 2,
+            "price": 8,
+            "name": "Rice"
+        },
+        {
+            "quantity": 1,
+            "price": 6,
+            "name": "Milk"
+        }
+    ],
+    "budget": 86
+}

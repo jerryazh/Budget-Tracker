@@ -1,0 +1,8 @@
+{
+    "items": [{
+        "quantity": 3,
+        "price": 6,
+        "name": "bread"
+    }],
+    "budget": 94
+}
